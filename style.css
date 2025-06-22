@@ -1,0 +1,36 @@
+body {
+  background-color: orange;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  color: #333;
+}
+h1 {
+  color: darkblue;
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+img {
+  border: 2px solid #ccc;
+  margin: 10px;
+  border-radius: 4px;
+}
+a {
+  color: darkred;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 40px;
+}
+#bio {
+  font-style: italic;
+  color: darkgreen;
+}
